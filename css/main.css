@@ -127,7 +127,11 @@ section {
     padding-bottom: 0.3rem; }
     #mainNav.navbar-shrink .navbar-brand {
       font-size: 1.5em; } }
-
+@media (max-width: 409px) {
+  #mainNav .navbar-brand {
+    font-size: 0.8em;
+  }
+}
 header.masthead {
   padding-top: 15rem;
   background: url('../img/cover.jpg') no-repeat center;
