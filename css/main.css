@@ -195,11 +195,13 @@ header.masthead span {
 .quote-right {
   bottom:-50px;
   right:-50px;
-
 }
 .quote-text {
   position: relative;
   z-index:1;
+}
+.quote-color {
+  color: #f1b19f;
 }
 #trio {
   text-align: center;
