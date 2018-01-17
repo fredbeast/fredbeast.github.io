@@ -320,3 +320,15 @@ a {
   margin: 0.45rem 0 0;
 }
 
+
+.card-block {
+  padding: 0.5rem;
+}
+
+.card {
+  margin: 1rem;
+}
+
+.bg-secondary p {
+  color : #fff;
+}
